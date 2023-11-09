@@ -1,0 +1,659 @@
+{
+  "maincategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Men",
+      "id": 1
+    },
+    {
+      "name": "Women",
+      "id": 2
+    },
+    {
+      "name": "Kids",
+      "id": 3
+    }
+  ],
+  "subcategory": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "Shirt",
+      "id": 2
+    },
+    {
+      "name": "Paint",
+      "id": 3
+    },
+    {
+      "name": "Shoot",
+      "id": 4
+    },
+    {
+      "name": "Salwar",
+      "id": 5
+    },
+    {
+      "name": "Saree",
+      "id": 6
+    }
+  ],
+  "brand": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Adiddas",
+      "id": 1
+    },
+    {
+      "name": "Gucci",
+      "id": 2
+    },
+    {
+      "name": "Mufti",
+      "id": 3
+    },
+    {
+      "name": "Zara",
+      "id": 4
+    },
+    {
+      "name": "H&M",
+      "id": 5
+    },
+    {
+      "name": "Nike",
+      "id": 6
+    }
+  ],
+  "product": [
+    {
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "Paint",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Adiddas",
+      "color": "Blue",
+      "size": "36",
+      "baseprice": 50000,
+      "discount": 10,
+      "finalprice": 45000,
+      "stock": "In Stock",
+      "description": "This is the quality product in our showroom.",
+      "pic1": "p1.jpg",
+      "pic2": "p2.jpg",
+      "pic3": "p5.jpg",
+      "pic4": "p13.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Saree",
+      "maincategory": "Women",
+      "subcategory": "Saree",
+      "brand": "Gucci",
+      "color": "Blue",
+      "size": "40",
+      "baseprice": 1220,
+      "discount": 20,
+      "finalprice": 976,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p17.jpg",
+      "pic2": "p49.jpg",
+      "pic3": "p17.jpg",
+      "pic4": "p45.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shoot",
+      "maincategory": "Women",
+      "subcategory": "Shoot",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "56",
+      "baseprice": 1500,
+      "discount": 45,
+      "finalprice": 825,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p8.jpg",
+      "pic2": "p38.jpg",
+      "pic3": "p19.jpg",
+      "pic4": "p18.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Men Jeans Adiddas",
+      "maincategory": "Men",
+      "subcategory": "Jeans",
+      "brand": "Adiddas",
+      "color": "black",
+      "size": "40",
+      "baseprice": 40000,
+      "discount": 12,
+      "finalprice": 35200,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p2.jpg",
+      "pic2": "p20.jpg",
+      "pic3": "p13.jpg",
+      "pic4": "p11.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Women shoot Zara",
+      "maincategory": "Women",
+      "subcategory": "Shoot",
+      "brand": "Zara",
+      "color": "red",
+      "size": "36",
+      "baseprice": 3998,
+      "discount": 45,
+      "finalprice": 2198.9,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p6.jpg",
+      "pic2": "p23.jpg",
+      "pic3": "p22.jpg",
+      "pic4": "p55.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kids Shirt Adiddas",
+      "maincategory": "Kids",
+      "subcategory": "Shirt",
+      "brand": "Adiddas",
+      "color": "red",
+      "size": "12",
+      "baseprice": 1220,
+      "discount": 45,
+      "finalprice": 671,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p4.jpg",
+      "pic2": "p43.jpg",
+      "pic3": "p58.jpg",
+      "pic4": "p64.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Women Salwar Zara",
+      "maincategory": "Women",
+      "subcategory": "Salwar",
+      "brand": "Zara",
+      "color": "black",
+      "size": "45",
+      "baseprice": 1000,
+      "discount": 12,
+      "finalprice": 880,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p72.jpg",
+      "pic2": "p53.jpg",
+      "pic3": "p45.jpg",
+      "pic4": "p9.jpg"
+    },
+    {
+      "name": "Kids Shirt Adiddas",
+      "maincategory": "Kids",
+      "subcategory": "Shirt",
+      "brand": "Adiddas",
+      "color": "black",
+      "size": "45",
+      "baseprice": 4500,
+      "discount": 15,
+      "finalprice": 3825,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p1.jpg",
+      "pic2": "p24.jpg",
+      "pic3": "p24.jpg",
+      "pic4": "p34.jpg",
+      "id": 8
+    },
+    {
+      "name": "Women shoot mufti",
+      "maincategory": "Women",
+      "subcategory": "Shoot",
+      "brand": "Mufti",
+      "color": "black",
+      "size": "12",
+      "baseprice": 45000,
+      "discount": 10,
+      "finalprice": 40500,
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "p9.jpg",
+      "pic2": "p14.jpg",
+      "pic3": "p12.jpg",
+      "pic4": "p6.jpg",
+      "id": 9
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Arvind Kumar",
+      "email": "arvindkumarjay07@gmail.com",
+      "phone": "0912 947 9296",
+      "addressline1": "VILL & POST KINAULI PURE BAIJU, MILKIPUR, AYODHYA",
+      "addressline3": "street",
+      "pin": "224228",
+      "city": "AYODHYA",
+      "state": "Uttar Pradesh",
+      "username": "Ar",
+      "password": "Ar@123",
+      "role": "Admin",
+      "pic": "p2.jpg",
+      "id": 1
+    },
+    {
+      "name": "Dav",
+      "email": "dav@gmail.com",
+      "phone": "1245678913",
+      "username": "dav bro",
+      "password": "D@123",
+      "role": "User",
+      "pic": "p4.jpg",
+      "id": 2
+    },
+    {
+      "name": "Java",
+      "email": "arvindkumarjay07@gmail.com",
+      "phone": "09129479296",
+      "addressline1": "VILL & POST KINAULI PURE BAIJU, Raibareli Road",
+      "addressline3": "street",
+      "pin": "224228",
+      "city": "Faizabad",
+      "state": "Uttar Pradesh",
+      "username": "sri",
+      "password": "Sri@123",
+      "role": "User",
+      "pic": "p6.jpg",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "productid": "1",
+      "userid": "1",
+      "name": "Paint",
+      "color": "Blue",
+      "size": "36",
+      "brand": "Adiddas",
+      "price": 45000,
+      "qty": 1,
+      "total": 45000,
+      "pic": "p1.jpg",
+      "id": 4
+    },
+    {
+      "productid": "5",
+      "userid": "2",
+      "name": "Women shoot Zara",
+      "color": "red",
+      "size": "36",
+      "brand": "Zara",
+      "price": 2198.9,
+      "qty": 1,
+      "total": 2198.9,
+      "pic": "p6.jpg",
+      "id": 5
+    },
+    {
+      "productid": "4",
+      "userid": "2",
+      "name": "Men Jeans Adiddas",
+      "color": "black",
+      "size": "40",
+      "brand": "Adiddas",
+      "price": 35200,
+      "qty": 1,
+      "total": 35200,
+      "pic": "p2.jpg",
+      "id": 6
+    },
+    {
+      "productid": "3",
+      "userid": "2",
+      "name": "Shoot",
+      "color": "Blue",
+      "size": "56",
+      "brand": "Zara",
+      "price": 825,
+      "qty": 1,
+      "total": 825,
+      "pic": "p8.jpg",
+      "id": 7
+    },
+    {
+      "productid": "6",
+      "userid": "2",
+      "name": "Kids Shirt Adiddas",
+      "color": "red",
+      "size": "12",
+      "brand": "Adiddas",
+      "price": 671,
+      "qty": 1,
+      "total": 671,
+      "pic": "p4.jpg",
+      "id": 8
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": "2",
+      "userid": null,
+      "name": "Saree",
+      "color": "Blue",
+      "size": "40",
+      "brand": "Gucci",
+      "price": 976,
+      "pic": "p17.jpg",
+      "id": 1
+    },
+    {
+      "productid": "1",
+      "userid": "2",
+      "name": "Paint",
+      "color": "Blue",
+      "size": "36",
+      "brand": "Adiddas",
+      "price": 45000,
+      "pic": "p1.jpg",
+      "id": 2
+    },
+    {
+      "productid": "7",
+      "userid": "1",
+      "name": "Women Salwar Zara",
+      "color": "black",
+      "size": "45",
+      "brand": "Zara",
+      "price": 880,
+      "pic": "p72.jpg",
+      "id": 3
+    },
+    {
+      "productid": "3",
+      "userid": "2",
+      "name": "Shoot",
+      "color": "Blue",
+      "size": "56",
+      "brand": "Zara",
+      "price": 825,
+      "pic": "p8.jpg",
+      "id": 4
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "paymentstatus": "Done",
+      "orderstatus": "Packed",
+      "subtotal": 45000,
+      "shipping": 0,
+      "total": 45000,
+      "products": [
+        {
+          "productid": "1",
+          "userid": "1",
+          "name": "Paint",
+          "color": "Blue",
+          "size": "36",
+          "brand": "Adiddas",
+          "price": 45000,
+          "qty": 1,
+          "total": 45000,
+          "pic": "p1.jpg",
+          "id": 2
+        }
+      ],
+      "date": "2023-11-08T07:52:44.411Z",
+      "id": 1
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "subtotal": 3078.9,
+      "shipping": 0,
+      "total": 3078.9,
+      "products": [
+        {
+          "productid": "7",
+          "userid": "1",
+          "name": "Women Salwar Zara",
+          "color": "black",
+          "size": "45",
+          "brand": "Zara",
+          "price": 880,
+          "qty": 1,
+          "total": 880,
+          "pic": "p72.jpg",
+          "id": 2
+        },
+        {
+          "productid": "5",
+          "userid": "1",
+          "name": "Women shoot Zara",
+          "color": "red",
+          "size": "36",
+          "brand": "Zara",
+          "price": 2198.9,
+          "qty": 1,
+          "total": 2198.9,
+          "pic": "p6.jpg",
+          "id": 3
+        }
+      ],
+      "date": "2023-11-08T07:54:40.675Z",
+      "id": 2
+    },
+    {
+      "userid": "1",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "subtotal": 45000,
+      "shipping": 0,
+      "total": 45000,
+      "products": [
+        {
+          "productid": "1",
+          "userid": "1",
+          "name": "Paint",
+          "color": "Blue",
+          "size": "36",
+          "brand": "Adiddas",
+          "price": 45000,
+          "qty": 1,
+          "total": 45000,
+          "pic": "p1.jpg",
+          "id": 2
+        }
+      ],
+      "date": "2023-11-08T09:50:46.426Z",
+      "id": 3
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "subtotal": 45000,
+      "shipping": 0,
+      "total": 45000,
+      "products": [
+        {
+          "productid": "1",
+          "userid": "2",
+          "name": "Paint",
+          "color": "Blue",
+          "size": "36",
+          "brand": "Adiddas",
+          "price": 45000,
+          "qty": 1,
+          "total": 45000,
+          "pic": "p1.jpg",
+          "id": 4
+        }
+      ],
+      "date": "2023-11-08T09:56:29.638Z",
+      "id": 4
+    },
+    {
+      "userid": "2",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "subtotal": 45000,
+      "shipping": 0,
+      "total": 45000,
+      "products": [
+        {
+          "productid": "1",
+          "userid": "2",
+          "name": "Paint",
+          "color": "Blue",
+          "size": "36",
+          "brand": "Adiddas",
+          "price": 45000,
+          "qty": 1,
+          "total": 45000,
+          "pic": "p1.jpg",
+          "id": 4
+        }
+      ],
+      "date": "2023-11-08T10:10:20.564Z",
+      "id": 5
+    },
+    {
+      "userid": "3",
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "subtotal": 3520,
+      "shipping": 0,
+      "total": 3520,
+      "products": [
+        {
+          "productid": "7",
+          "userid": "3",
+          "name": "Women Salwar Zara",
+          "color": "black",
+          "size": "45",
+          "brand": "Zara",
+          "price": 880,
+          "qty": 4,
+          "total": 3520,
+          "pic": "p72.jpg",
+          "id": 3
+        }
+      ],
+      "date": "2023-11-08T11:56:00.332Z",
+      "id": 6
+    },
+    {
+      "userid": null,
+      "paymentmode": "COD",
+      "paymentstatus": "Pending",
+      "orderstatus": "Order Placed",
+      "subtotal": 4801,
+      "shipping": 0,
+      "total": 4801,
+      "products": [
+        {
+          "productid": "2",
+          "userid": null,
+          "name": "Saree",
+          "color": "Blue",
+          "size": "40",
+          "brand": "Gucci",
+          "price": 976,
+          "qty": 1,
+          "total": 976,
+          "pic": "p17.jpg",
+          "id": 9
+        },
+        {
+          "productid": "8",
+          "userid": null,
+          "name": "Kids Shirt Adiddas",
+          "color": "black",
+          "size": "45",
+          "brand": "Adiddas",
+          "price": 3825,
+          "qty": 1,
+          "total": 3825,
+          "pic": "p1.jpg",
+          "id": 10
+        }
+      ],
+      "date": "2023-11-09T10:28:09.514Z",
+      "id": 7
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "arvindkumarjay07@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "hello arvind",
+      "id": 2
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "Arvind Kumar",
+      "email": "arvindkumarjay07@gmail.com",
+      "phone": "0912 947 9296",
+      "subject": "view",
+      "message": "Interesting problem and can be solved both iteratively and recursively (same for any problem). \nThe first thing which comes to mind is to have a map of the numbers and digits, so that we can actually \nuse it. The second thing which is trivial is that -> we would iterate over, take all the possible ways, and \nthen store it in a list. It’s basically a cliche backtracking problem where we have some arrays and we \nwant all the possible cases in those.",
+      "status": "Active",
+      "date": "2023-11-08T09:21:16.502Z",
+      "id": 1
+    },
+    {
+      "name": "dav",
+      "email": "dav@gmail.com",
+      "phone": "1464792910",
+      "subject": "hindi",
+      "message": "Interesting problem and can be solved both iteratively and recursively (same for any problem). \nThe first thing which comes to mind is to have a map of the numbers and digits, so that we can actually \nuse it. The second thing which is trivial is that -> we would iterate over, take all the possible ways, and \nthen store it in a list. It’s basically a cliche backtracking problem where we have some arrays and we \nwant all the possible cases in those.",
+      "status": "Active",
+      "date": "2023-11-08T09:21:39.206Z",
+      "id": 2
+    }
+  ]
+}
